@@ -1,5 +1,3 @@
-// server.js (or your Express.js server file)
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const calculateKundliScore = require('./kundliCalculator'); 
